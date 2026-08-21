@@ -1,0 +1,3 @@
+soul society 
+this is a git project 
+and we are learning git and github
